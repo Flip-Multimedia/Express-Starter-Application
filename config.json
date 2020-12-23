@@ -1,0 +1,6 @@
+{
+  "mongodb": {
+    "hostname": "localhost",
+    "database": "database"
+  }
+}
